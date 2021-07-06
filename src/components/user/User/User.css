@@ -1,0 +1,11 @@
+.User {
+    width: 200px;
+    border: 1px solid #ddd;
+    text-align: center;
+    padding: 20px;
+}
+
+.User__img  img {
+    width:100%;
+    height: 100%;
+}

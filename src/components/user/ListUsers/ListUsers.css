@@ -1,0 +1,14 @@
+.ListUsers {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.ListUsers .ListUsers__wrapper {
+    display: flex;
+}
+
+.ListUsers .User {
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
